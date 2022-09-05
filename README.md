@@ -1,2 +1,2 @@
-# pc-1ano
+# PC-1ano
 pensamento computacional
